@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : G:\My Drive\Graduate\Project\Haptic Assistance Navigation Device\PCB Design\For JLC\final\fpc\hand_fpc_v1_origin_footprint_final_version\hand_fpc.PcbDoc
+Date         : Tue 24 5 28
+Time         : PM 09:20:54
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 189
+    Connections routed, 189
+    Connections remaining, 0
+count : 4
